@@ -26,10 +26,10 @@ project/
 
 | Aircraft_ID | Flight_Hours |
 |------------|-------------|
-| A001 | 120 |
-| A002 | 90 |
-| A003 | 150 |
-| A004 | 75 |
+|VT-EXA | 120 |
+|VT-EXB | 90 |
+|VT-EXC| 150 |
+|VT-EXD| 75 |
 
 ## Output Example
 Average: 108.75
